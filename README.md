@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **coderider007/coderider007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Arun Kumar - aka [coderider007][website] 👋
+### Hi there, I'm Arun Kumar - [coderider007][website] 👋
 
 [![Website](https://img.shields.io/website?label=ArunBhati.com&style=for-the-badge&url=http%3A%2F%2Farunbhati.com)](http://arunbhati.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArunBhatiOrig?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoderider007&screen_name=ArunKumar)
