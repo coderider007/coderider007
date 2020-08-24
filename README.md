@@ -111,10 +111,10 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="coderider007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderider007&show_icons=true&hide_border=true" />
+  <img align="left" alt="coderider007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderider007&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs" />
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderider007&layout=compact)](https://github.com/coderider007)
 
 [website]: http://arunbhati.com
 [twitter]: https://twitter.com/ArunBhatiOrig
