@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy gym workouts and spending long hours on my work desk.
 
 <!-- ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ArunBhati Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+[<img src="https://now-playing-coderider007.vercel.app/api/spotify-playing" alt="ArunBhati Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 ### Connect with me:
 
@@ -38,17 +38,18 @@ Here are some ideas to get you started:
 <!-- [<img align="left" alt="ArunBhati | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="ArunBhatiOrig | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Arun Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ArunBhatiOrig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="ArunBhatiOrig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />][website]
-[<img align="left" alt="Java" width="26px" src="hhttps://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />][website]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />][website]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />][website]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />][website]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />][website]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
@@ -82,21 +83,21 @@ Here are some ideas to get you started:
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE) -->
 <!-- YOUTUBE:END -->
 
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
+<!-- ➡️ [more videos...](https://youtube.com/coderider007) -->
 
 <!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
+<!-- - [Microinteractions: Password Validation Animation](https://dev.to/coderider007/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/coderider007/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/coderider007/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/coderider007/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/coderider007/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
+<!-- ➡️ [more blog posts...](https://coderider007.com) -->
 
 ---
 
@@ -110,17 +111,13 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="coderider007's Github Stats" src="https://github-readme-stats.coderider007.vercel.app/api?username=coderider007&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="coderider007's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderider007&show_icons=true&hide_border=true" />
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://arunbhati.com
 [twitter]: https://twitter.com/ArunBhatiOrig
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: websitehttps://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<!-- [youtube]: https://youtube.com/arunbhati -->
+<!-- [instagram]: https://instagram.com/arunbhati -->
+[linkedin]: https://www.linkedin.com/in/arunkumar7620
