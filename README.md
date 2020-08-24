@@ -105,6 +105,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com//coderider007/Covid-Healthcare-Register-UI/issues/1) in [coderider007/Covid-Healthcare-Register-UI](https://github.com//coderider007/Covid-Healthcare-Register-UI)
 <!--END_SECTION:activity-->
 
 </details>
