@@ -103,7 +103,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//coderider007/Covid-Healthcare-Register-UI/issues/1) in [coderider007/Covid-Healthcare-Register-UI](https://github.com//coderider007/Covid-Healthcare-Register-UI)
+1. 🗣 Commented on [#7](https://github.com//mintware-de/flutter_p2p/issues/7) in [mintware-de/flutter_p2p](https://github.com//mintware-de/flutter_p2p)
 <!--END_SECTION:activity-->
 
 </details>
